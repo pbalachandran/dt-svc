@@ -1,0 +1,107 @@
+{
+  "name": "Paint Projects",
+  "children": [
+    {
+      "name": "Home Repaint Inside",
+      "children": [
+        {
+          "name": "<= 3000 Square Feet",
+          "children": [
+            {
+              "name": "Regular Ceiling",
+              "children": [
+                {
+                  "name": "Paint-100",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "High Ceiling",
+              "children": [
+                {
+                  "name": "Paint-101",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "> 3000 Square Feet",
+          "children": [
+            {
+              "name": "Regular Ceiling",
+              "children": [
+                {
+                  "name": "Paint-200",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "High Ceiling",
+              "children": [
+                {
+                  "name": "Paint-201",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home Repaint Outside",
+      "children": [
+        {
+          "name": "<= 3000 Square Feet",
+          "children": [
+            {
+              "name": "One Story",
+              "children": [
+                {
+                  "name": "Paint-300",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Two Story",
+              "children": [
+                {
+                  "name": "Paint-301",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "> 3000 Square Feet",
+          "children": [
+            {
+              "name": "One Story",
+              "children": [
+                {
+                  "name": "Paint-400",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Two Story",
+              "children": [
+                {
+                  "name": "Paint-401",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

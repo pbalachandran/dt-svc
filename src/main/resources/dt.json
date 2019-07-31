@@ -1,0 +1,247 @@
+{
+  "name": "Projects",
+  "children": [
+    {
+      "name": "Paint Projects",
+      "children": [
+        {
+          "name": "Home Repaint Inside",
+          "children": [
+            {
+              "name": "<= 3000 Square Feet",
+              "children": [
+                {
+                  "name": "Regular Ceiling",
+                  "children": [
+                    {
+                      "name": "Paint-100",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "High Ceiling",
+                  "children": [
+                    {
+                      "name": "Paint-101",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "> 3000 Square Feet",
+              "children": [
+                {
+                  "name": "Regular Ceiling",
+                  "children": [
+                    {
+                      "name": "Paint-200",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "High Ceiling",
+                  "children": [
+                    {
+                      "name": "Paint-201",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Home Repaint Outside",
+          "children": [
+            {
+              "name": "<= 3000 Square Feet",
+              "children": [
+                {
+                  "name": "One Story",
+                  "children": [
+                    {
+                      "name": "Paint-300",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Two Story",
+                  "children": [
+                    {
+                      "name": "Paint-301",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "> 3000 Square Feet",
+              "children": [
+                {
+                  "name": "One Story",
+                  "children": [
+                    {
+                      "name": "Paint-400",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Two Story",
+                  "children": [
+                    {
+                      "name": "Paint-401",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home Remodel Projects",
+      "children": [
+        {
+          "name": "Kitchen Remodel",
+          "children": [
+            {
+              "name": "Replace Counter Tops",
+              "children": [
+                {
+                  "name": "Home-Remodel-100",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Resurface/Polish Counter Tops",
+              "children": [
+                {
+                  "name": "Home-Remodel-101",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Flooring",
+          "children": [
+            {
+              "name": "<= 3000 Square Feet",
+              "children": [
+                {
+                  "name": "Carpet",
+                  "children": [
+                    {
+                      "name": "Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-200",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "No Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-201",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Hardwood",
+                  "children": [
+                    {
+                      "name": "Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-300",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "No Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-301",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "> 3000 Square Feet",
+              "children": [
+                {
+                  "name": "Carpet",
+                  "children": [
+                    {
+                      "name": "Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-400",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "No Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-401",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Hardwood",
+                  "children": [
+                    {
+                      "name": "Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-500",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "name": "No Stairs",
+                      "children": [
+                        {
+                          "name": "Home-Remodel-501",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
